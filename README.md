@@ -87,7 +87,7 @@ This project is licensed under the **MIT License**.
 
 ### Adding a Task
 
-![Add Task Dialog](screenshots\1.png)
+![Add Task Dialog](screenshots/1.png)
 
 ---
 
