@@ -21,7 +21,18 @@ class TodoApp(QMainWindow):
         layout = QVBoxLayout()
 
         self.task_list_widget = QListWidget()  # To display tasks
-        self.task_list_widget.setStyleSheet("QListWidget { background: transparent; }")  # Make the task list background transparent
+        self.task_list_widget.setStyleSheet("QListWidget { background: transparent; }")
+        self.task_list_widget.setStyleSheet("""
+            QListWidget {
+                background: transparent;
+                color: white;  /* Font color to white */
+                font-size: 14px;
+            }
+            QListWidget::item:selected {
+                background: rgba(255, 255, 255, 30);  /* Light transparent selection */
+                color: white;  /* Selected text color */
+            }
+        """)  # Make the task list background transparent
         layout.addWidget(self.task_list_widget)
 
         # Button to add a task
