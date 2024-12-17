@@ -1,6 +1,3 @@
-Here's a README file for your PyQt5 To-Do List application:
-
----
 
 # Baala ka PA - To-Do List Application
 
@@ -27,7 +24,7 @@ The application stays **always-on-top**, ensuring quick access to your tasks. It
 
 ## Installation
 
-To use the application, follow these steps:
+To use the application, follow these steps or you can simply download the exe file from the dist folder:
 
 1. Ensure you have Python **3.10 or higher** installed on your system.
 
