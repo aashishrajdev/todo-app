@@ -1,8 +1,5 @@
-Here's a README file for your PyQt5 To-Do List application:
 
----
-
-# Baala ka PA - To-Do List Application
+# To-Do List Application
 
 ### A lightweight PyQt5-based task manager application with a sleek transparent interface.
 
