@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # Baala ka PA - To-Do List Application
+=======
+# To-Do List Application
+>>>>>>> 15d0294 (updated the exe file)
 
 ### A lightweight PyQt5-based task manager application with a sleek transparent interface.
 
